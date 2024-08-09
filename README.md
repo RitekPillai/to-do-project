@@ -1,6 +1,6 @@
-# practice
+# Todo-app
 
-A new Flutter project.
+first flutter project.
 
 ## Getting Started
 
